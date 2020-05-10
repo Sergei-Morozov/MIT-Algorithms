@@ -20,8 +20,7 @@ Resources: [Recitations]()  </br>
 
 ## [Introduction to Algorithms 6.006](<https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm>)
 
-### Programming Assignment: Greedy Algorithms
-Problem: [Peak Finding]()  </br>
-Problem: [Word distance]()  </br>
+### Programming Assignments
+Problem: [Binary Search Tree]()  </br>
 
 
