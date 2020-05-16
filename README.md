@@ -22,5 +22,5 @@ Resources: [Recitations]()  </br>
 
 ### Programming Assignments
 Problem: [Binary Search Tree]()  </br>
-
+Problem: [AVL Tree]()  </br>
 
